@@ -1,0 +1,9 @@
+llama_index
+llama-index-vector-stores-faiss
+langchain
+openai
+faiss-cpu
+pypdf
+python-dotenv
+streamlit
+azure.cognitiveservices.speech
