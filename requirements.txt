@@ -7,3 +7,5 @@ pypdf
 python-dotenv
 streamlit
 azure.cognitiveservices.speech
+SpeechRecognition 
+pyaudio
